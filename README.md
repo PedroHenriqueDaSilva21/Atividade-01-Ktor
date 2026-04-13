@@ -2,7 +2,7 @@
 
 > **Atividade LDDM — Laboratório de Desenvolvimento de Dispositivos Móveis**
 >
-> **Autor:** SEU_NOME_COMPLETO_AQUI
+> **Autor:** Pedro Henrique da Silva
 
 API REST desenvolvida com **Ktor (Kotlin)** para gerenciamento de Autores e Livros. Utiliza PostgreSQL via Docker, Flyway para migrations e Swagger para documentação interativa.
 
